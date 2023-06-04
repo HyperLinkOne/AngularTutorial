@@ -1,0 +1,5 @@
+<ul>
+  <li *ngFor="let entry of menueData">
+    <a (click)="goto(entry.link)">{{ entry.lable }}</a>
+  </li>
+</ul>

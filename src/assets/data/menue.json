@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "lable": "über mich",
+      "link" : "aboutme"
+    },
+    {
+      "lable": "Home",
+      "link" : "home"
+    },
+    {
+      "lable": "Kontakt",
+      "link" : "contact"
+    },
+    {
+      "lable": "KontaktArt",
+      "link" : "contacter"
+    }
+  ]
+}
